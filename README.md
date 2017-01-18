@@ -1,2 +1,4 @@
 # FIJI-Germination-Detection
-A FIJI scripts for detecting germination 
+FIJI scripts for detecting germination
+
+Has sample macro only
